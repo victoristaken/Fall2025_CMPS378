@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/GroupExercise1/bin/Debug/net10.0/GroupExercise1
+/Users/victorlopez/programming/GroupExercise1/bin/Debug/net10.0/GroupExercise1.deps.json
+/Users/victorlopez/programming/GroupExercise1/bin/Debug/net10.0/GroupExercise1.runtimeconfig.json
+/Users/victorlopez/programming/GroupExercise1/bin/Debug/net10.0/GroupExercise1.dll
+/Users/victorlopez/programming/GroupExercise1/bin/Debug/net10.0/GroupExercise1.pdb
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.AssemblyInfo.cs
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.dll
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/refint/GroupExercise1.dll
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.pdb
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/GroupExercise1.genruntimeconfig.cache
+/Users/victorlopez/programming/GroupExercise1/obj/Debug/net10.0/ref/GroupExercise1.dll

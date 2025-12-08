@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/Consoleapp1/bin/Debug/net10.0/Consoleapp1
+/Users/victorlopez/programming/Consoleapp1/bin/Debug/net10.0/Consoleapp1.deps.json
+/Users/victorlopez/programming/Consoleapp1/bin/Debug/net10.0/Consoleapp1.runtimeconfig.json
+/Users/victorlopez/programming/Consoleapp1/bin/Debug/net10.0/Consoleapp1.dll
+/Users/victorlopez/programming/Consoleapp1/bin/Debug/net10.0/Consoleapp1.pdb
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.AssemblyInfo.cs
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.dll
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/refint/Consoleapp1.dll
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.pdb
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/Consoleapp1.genruntimeconfig.cache
+/Users/victorlopez/programming/Consoleapp1/obj/Debug/net10.0/ref/Consoleapp1.dll
