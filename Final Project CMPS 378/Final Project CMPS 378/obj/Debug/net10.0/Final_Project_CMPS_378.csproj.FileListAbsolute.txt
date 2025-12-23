@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.AssemblyInfo.cs
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/bin/Debug/net10.0/Final_Project_CMPS_378
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/bin/Debug/net10.0/Final_Project_CMPS_378.deps.json
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/bin/Debug/net10.0/Final_Project_CMPS_378.runtimeconfig.json
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/bin/Debug/net10.0/Final_Project_CMPS_378.dll
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/bin/Debug/net10.0/Final_Project_CMPS_378.pdb
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.dll
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/refint/Final_Project_CMPS_378.dll
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.pdb
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/Final_Project_CMPS_378.genruntimeconfig.cache
+/Users/victorlopez/programming/Final Project CMPS 378/Final Project CMPS 378/obj/Debug/net10.0/ref/Final_Project_CMPS_378.dll
