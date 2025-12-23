@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/Quiz1/Quiz1/bin/Debug/net10.0/Quiz1
+/Users/victorlopez/programming/Quiz1/Quiz1/bin/Debug/net10.0/Quiz1.deps.json
+/Users/victorlopez/programming/Quiz1/Quiz1/bin/Debug/net10.0/Quiz1.runtimeconfig.json
+/Users/victorlopez/programming/Quiz1/Quiz1/bin/Debug/net10.0/Quiz1.dll
+/Users/victorlopez/programming/Quiz1/Quiz1/bin/Debug/net10.0/Quiz1.pdb
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.AssemblyInfo.cs
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.dll
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/refint/Quiz1.dll
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.pdb
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/Quiz1.genruntimeconfig.cache
+/Users/victorlopez/programming/Quiz1/Quiz1/obj/Debug/net10.0/ref/Quiz1.dll
