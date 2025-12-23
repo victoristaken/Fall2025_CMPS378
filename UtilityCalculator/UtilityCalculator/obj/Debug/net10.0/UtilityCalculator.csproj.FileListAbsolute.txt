@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/bin/Debug/net10.0/UtilityCalculator
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/bin/Debug/net10.0/UtilityCalculator.deps.json
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/bin/Debug/net10.0/UtilityCalculator.runtimeconfig.json
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/bin/Debug/net10.0/UtilityCalculator.dll
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/bin/Debug/net10.0/UtilityCalculator.pdb
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.AssemblyInfo.cs
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.dll
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/refint/UtilityCalculator.dll
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.pdb
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/UtilityCalculator.genruntimeconfig.cache
+/Users/victorlopez/programming/UtilityCalculator/UtilityCalculator/obj/Debug/net10.0/ref/UtilityCalculator.dll
