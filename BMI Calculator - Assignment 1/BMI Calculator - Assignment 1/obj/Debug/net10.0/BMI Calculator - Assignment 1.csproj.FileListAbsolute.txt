@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/bin/Debug/net10.0/BMI Calculator - Assignment 1
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/bin/Debug/net10.0/BMI Calculator - Assignment 1.deps.json
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/bin/Debug/net10.0/BMI Calculator - Assignment 1.runtimeconfig.json
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/bin/Debug/net10.0/BMI Calculator - Assignment 1.dll
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/bin/Debug/net10.0/BMI Calculator - Assignment 1.pdb
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.AssemblyInfo.cs
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.dll
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/refint/BMI Calculator - Assignment 1.dll
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.pdb
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/BMI Calculator - Assignment 1.genruntimeconfig.cache
+/Users/victorlopez/programming/BMI Calculator - Assignment 1/BMI Calculator - Assignment 1/obj/Debug/net10.0/ref/BMI Calculator - Assignment 1.dll
