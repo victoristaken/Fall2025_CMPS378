@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/InternetBilling/InternetBilling/bin/Debug/net10.0/InternetBilling
+/Users/victorlopez/programming/InternetBilling/InternetBilling/bin/Debug/net10.0/InternetBilling.deps.json
+/Users/victorlopez/programming/InternetBilling/InternetBilling/bin/Debug/net10.0/InternetBilling.runtimeconfig.json
+/Users/victorlopez/programming/InternetBilling/InternetBilling/bin/Debug/net10.0/InternetBilling.dll
+/Users/victorlopez/programming/InternetBilling/InternetBilling/bin/Debug/net10.0/InternetBilling.pdb
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.AssemblyInfo.cs
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.dll
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/refint/InternetBilling.dll
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.pdb
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/InternetBilling.genruntimeconfig.cache
+/Users/victorlopez/programming/InternetBilling/InternetBilling/obj/Debug/net10.0/ref/InternetBilling.dll
