@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/bin/Debug/net10.0/BudgetingApp
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/bin/Debug/net10.0/BudgetingApp.deps.json
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/bin/Debug/net10.0/BudgetingApp.runtimeconfig.json
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/bin/Debug/net10.0/BudgetingApp.dll
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/bin/Debug/net10.0/BudgetingApp.pdb
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.AssemblyInfo.cs
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.dll
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/refint/BudgetingApp.dll
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.pdb
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/BudgetingApp.genruntimeconfig.cache
+/Users/victorlopez/programming/BudgetingApp/BudgetingApp/obj/Debug/net10.0/ref/BudgetingApp.dll
