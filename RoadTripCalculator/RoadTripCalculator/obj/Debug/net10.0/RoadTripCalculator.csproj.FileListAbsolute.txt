@@ -1,0 +1,14 @@
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/bin/Debug/net10.0/RoadTripCalculator
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/bin/Debug/net10.0/RoadTripCalculator.deps.json
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/bin/Debug/net10.0/RoadTripCalculator.runtimeconfig.json
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/bin/Debug/net10.0/RoadTripCalculator.dll
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/bin/Debug/net10.0/RoadTripCalculator.pdb
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.AssemblyInfoInputs.cache
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.AssemblyInfo.cs
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.csproj.CoreCompileInputs.cache
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.dll
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/refint/RoadTripCalculator.dll
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.pdb
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/RoadTripCalculator.genruntimeconfig.cache
+/Users/victorlopez/programming/RoadTripCalculator/RoadTripCalculator/obj/Debug/net10.0/ref/RoadTripCalculator.dll

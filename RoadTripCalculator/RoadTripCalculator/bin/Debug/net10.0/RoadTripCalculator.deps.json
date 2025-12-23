@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RoadTripCalculator/1.0.0": {
+        "runtime": {
+          "RoadTripCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoadTripCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
